@@ -1,7 +1,7 @@
 # MODUULER - A KITCHEN COMPONENT 3D EDITING TOOL
 
 ## Overview
-This repository shows a part of the "Moduuler" project. I show only part of the project, because the project was made for a private company and showing the whole project may reveal sensitive business information. The Moduuler project was done in Spring 2024 as part of the Software project 1/2 course, in a group of 5 consisting of junior developers (Software project 1) and senior developers (Software project 2). 
+This repository shows a part of the "Moduuler" project. I show only part of the project, because the project was made for a private company and showing the whole project may reveal sensitive business information. The Moduuler project was done in Spring 2024 as part of the Software project 1/2 course, in a group of 5 consisting of junior developers (Software project 1) and senior developers (Software project 2). I acted as a junior developer in this project.
 
 Moduuler is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application.
 
