@@ -1,9 +1,11 @@
 # MODUULER - A KITCHEN COMPONENT 3D EDITING TOOL
 
 ## Overview
+Moduuler is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application.
+
 This repository shows a part of the "Moduuler" project. I show only part of the project, because the project was made for a private company and showing the whole project may reveal sensitive business information. The Moduuler project was done in Spring 2024 as part of the Software project 1/2 course, in a group of 5 consisting of junior developers (Software project 1) and senior developers (Software project 2). I acted as a junior developer in this project.
 
-Moduuler is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application.
+For this project, we used agile methods, which included weekly meetings with the team, in which every second meeting was a sprint beginning / sprint retrospective, biweekly meetings with the customer (representative from the private company), and occasional meetings with another project group working for the same customer, which developed the application that was going to use Moduuler as a React component.
 
 ## Used technologies (in the actual project)
 - [Axios](https://axios-http.com/docs/intro)
@@ -44,6 +46,8 @@ Number of redux slices: 4
 Number of views / main windows: 8 
 
 Number of merge requests closed: 73 
+
+Project duration: 13 weeks
 
 Total working hours: 953 +  final week’s work 
 
