@@ -5,7 +5,7 @@ Moduuler is a 3D editor application. It is intended to be used as a React compon
 
 This repository shows a part of the "Moduuler" project. I show only part of the project, because the project was made for a private company and showing the whole project may reveal sensitive business information. The Moduuler project was done in Spring 2024 as part of the Software project 1/2 course, in a group of 5 consisting of junior developers (Software project 1) and senior developers (Software project 2). I acted as a junior developer in this project.
 
-For this project, we used agile methods, which included weekly meetings with the team, in which every second meeting was a sprint beginning / sprint retrospective, biweekly meetings with the customer (representative from the private company), and occasional meetings with another project group working for the same customer, which developed the application that was going to use Moduuler as a React component.
+For this project, we used agile methods, which included weekly meetings with the team, in which every second meeting was a sprint beginning / sprint retrospective, biweekly meetings with the customer (representative from the private company), and occasional meetings with another project group, which developed for the same customer the application that was going to use Moduuler as a React component.
 
 ## Used technologies (in the actual project)
 - [Axios](https://axios-http.com/docs/intro)
