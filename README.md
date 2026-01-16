@@ -1,7 +1,7 @@
 # A KITCHEN COMPONENT 3D EDITING TOOL
 
-## Video demo
-Youtube demo: https://youtu.be/Y6weHB7dgfw
+## Youtube demo
+https://youtu.be/Y6weHB7dgfw
 
 ## Overview
 The project is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application.
