@@ -1,9 +1,12 @@
-# MODUULER - A KITCHEN COMPONENT 3D EDITING TOOL
+# A KITCHEN COMPONENT 3D EDITING TOOL
+
+## Video demo
+
 
 ## Overview
-Moduuler is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application.
+The project is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application.
 
-This repository shows a part of the "Moduuler" project. I show only part of the project, because the project was made for a private company and showing the whole project may reveal sensitive business information. The Moduuler project was done in Spring 2024 as part of the Software project 1/2 course, in a group of 5 consisting of junior developers (Software project 1) and senior developers (Software project 2). I acted as a junior developer in this project.
+This repository serves as a demo for the project. No source code is shown in request of the client company. The Moduuler project was done in Spring 2024 as part of the Software project 1/2 course, in a group of 5 consisting of junior developers (Software project 1) and senior developers (Software project 2). I acted as a junior developer in this project.
 
 For this project, we used agile methods, which included weekly meetings with the team, in which every second meeting was a sprint beginning / sprint retrospective, biweekly meetings with the customer (representative from the private company), and occasional meetings with another project group, which developed for the same customer the application that was going to use Moduuler as a React component.
 
@@ -29,10 +32,6 @@ The development process included effort estimation for individual tasks, task di
 - [UUID](https://www.npmjs.com/package/uuid)
 - [Visual Studio Code debugging](https://code.visualstudio.com/Docs/editor/debugging)
 - [Webpack](https://webpack.js.org/guides/environment-variables/)
-
-## My personal contribution
-The code files in this repository are written mostly by me. Some refactors or small added functionalities may have been written by other group members.
-I was responsible for the element hierarchy, where the user can edit the hierarchy by drag and drop, and can use, for example, the following functionalities: rename, delete and duplicate. I also implemented other functionalities or react components, like the element form (which is visible in right side of the project poster) or methods for redux slices, but since the other code files also contain code from other group members, I don't include them here because the point here is to demonstrate my coding skills.
 
 ## Some metrics from the actual project
 Size of group: 5 members
