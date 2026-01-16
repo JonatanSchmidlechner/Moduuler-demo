@@ -12,7 +12,7 @@ For this project, we used agile methods, which included weekly meetings with the
 
 The development process included effort estimation for individual tasks, task distribution and code reviews for each merge request. I would say this project's workflow was very close to an actual workflow in real-life projects in companies.
 
-## Used technologies (in the actual project)
+## Used technologies
 - [Axios](https://axios-http.com/docs/intro)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
@@ -33,7 +33,7 @@ The development process included effort estimation for individual tasks, task di
 - [Visual Studio Code debugging](https://code.visualstudio.com/Docs/editor/debugging)
 - [Webpack](https://webpack.js.org/guides/environment-variables/)
 
-## Some metrics from the actual project
+## Some metrics
 Size of group: 5 members
 
 Total amount of source code (LOC / SLOC): 6291 / 5559 
