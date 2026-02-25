@@ -4,13 +4,15 @@
 https://youtu.be/zvvfZTt6-gI
 
 ## Overview
-The project is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application.
+**Moduuler** is a 3D editor React component intended for integration as an npm package in a parent application. This repository serves as a demo for the project; source code is not publicly available at the request of the client company.
 
-This repository serves as a demo for the project. No source code is shown in request of the client company. The Moduuler project was done in Spring 2024 as part of the Software project 1/2 course, in a group of 5 consisting of junior developers (Software project 1) and senior developers (Software project 2). I acted as a junior developer. I had no prior experience in web development so performing reasonably well in this project demonstrates my ability to learn new skills quickly. I worked mainly with business logic.
+- **Course & Team:** Developed in Spring 2024 as part of the Software Project 1/2 course. Team of 5 members, including junior and senior developers.
 
-For this project, we used agile methods, which included weekly meetings with the team, in which every second meeting was a sprint beginning / sprint retrospective, biweekly meetings with the customer (representative from the private company), and occasional meetings with another project group, which developed for the same customer the application that was going to use Moduuler as a React component.
+- **My Role & Contribution:** Junior developer, mainly implementing business logic (component hierarchy, product library) and collaborating in agile development.
 
-The development process included effort estimation for individual tasks, task distribution and code reviews for each merge request. I would say this project's workflow was very close to an actual workflow in real-life projects in companies.
+- **Workflow:** Agile methodology with sprint planning, code reviews, and client meetings. Contributed to task estimation, merge requests, and user story completion.
+
+- **Learning & Skills:** Demonstrated the ability to learn new technologies (React, TypeScript, Redux) quickly and work effectively in a small development team.
 
 ## Used technologies
 - [Axios](https://axios-http.com/docs/intro)
